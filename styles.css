@@ -34,18 +34,19 @@ body{
     animation: slide 5s infinite;
 
 }
-@keyframes slide{
+/* @keyframes slide{
     25%{
-        background:url(img/download (1).jpeg);
-    
-    50%{
-        background:url(img/download(2).jpeg);
-    
-    75{
-        background:url(img/download.jpeg);
+        background-image:url(img/download (1).jpeg);
+    }
+    25%{
+        background-image:url(img/download (2).jpeg);
+    }
+    100%{
+        background-image:url(img/download.jpeg);
+    }
+} */
     
 
-}
 #addToDo{
     height: 50px;
     width: 40px;
