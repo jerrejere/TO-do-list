@@ -9,7 +9,7 @@ body{
     width: 370px;
     height: 100px;
     position: relative;
-    overflow:h ;
+    overflow:hidden ;
 }
 #inputField{
     width: 300px;
