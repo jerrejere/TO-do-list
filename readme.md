@@ -4,4 +4,4 @@ The project mainly is about a reminder that is created to help people remind the
 
 The instructions are basically inside the project that will help you understand how the project runs
 
-https://johnsjuma.github.io/TO-do-list/
+ These is the lik for the project  https://johnsjuma.github.io/TO-do-list/
